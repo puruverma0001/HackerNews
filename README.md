@@ -1,6 +1,6 @@
 # hackernews
 
-A new Flutter application.
+Hacker News App is based on the website of https://news.ycombinator.com/. This site uses hacker news API. This API was very un optimized. So this app optimizes this API to some content.
 
 ## Getting Started
 
